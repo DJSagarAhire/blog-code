@@ -1,0 +1,9 @@
+# Java
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.py[cod]
+nosetests.xml
+coverage.xml
