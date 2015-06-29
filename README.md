@@ -10,3 +10,6 @@ Demonstration of ways to compute the `n`th Catalan number.
 
 003: **Edit Distance** | [Blog](http://djsagarahire.github.io/posts/edit-distance.html) | [Code](https://github.com/DJSagarAhire/blog-code/tree/master/003)  
 Calculation of Levenshtein distance between 2 strings.
+
+004: **"Hello World" Flask Webapp** | [Blog](http://djsagarahire.github.io/posts/a-hello-world-webapp-in-flask.html) | [Code](https://github.com/DJSagarAhire/blog-code/tree/master/004)  
+A basic web application written in Python's `flask` web framework.
